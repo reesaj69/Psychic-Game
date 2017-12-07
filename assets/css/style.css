@@ -1,0 +1,25 @@
+p {
+	font-size: 30px;
+}
+
+
+.page-header {
+	color: blue;
+	text-align: center;
+	background-color: #ccc;
+	border: solid;
+	font-size: 100px;
+
+}
+
+.word{
+
+ 	text-align: center;
+ 	font-size:  20px;
+ }
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+	color: blue;
+}
